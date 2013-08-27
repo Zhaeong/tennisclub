@@ -1,0 +1,55 @@
+body {
+	background-color: white;
+}
+
+#topimg{
+	text-align: center;
+	
+    
+ 
+    margin-top: -1em;
+    
+  
+
+}
+
+#toppanel{
+	
+	text-align: center;
+	
+
+}
+
+a{
+	text-decoration: none;
+}
+#info{
+	text-align: center;
+	margin-left: auto;
+	margin-right:auto;
+	margin-top:2em;
+	width:55em;
+	background-color: white;
+	border-top: 2px solid black;
+	
+}
+
+
+
+.button{
+	padding:5px;
+	width: 4em;
+	font-size: 3em;
+	font-family: Times ,sans-serif;
+	border:3px solid black;
+	border-radius: 3em;
+	margin:5px;
+	display:inline-block;
+	border-bottom: 1px solid black;
+	border-top: 1px solid black;
+	
+}
+
+.button:hover{
+	background-color:yellow;
+}
